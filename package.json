@@ -1,0 +1,17 @@
+{
+  "name": "ctw-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qej",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "discord.js": "^12.3.1",
+    "hypixel": "^1.0.3",
+    "mcauth": "^0.2.2"
+  }
+}
